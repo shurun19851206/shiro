@@ -70,9 +70,115 @@
             <version>4.1.6.RELEASE</version>
         </dependency>
         
+        <!-- spring webmvc -->
          <dependency>
 			 <groupId>org.springframework</groupId>
 			 <artifactId>spring-webmvc</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring aop -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-aop</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring aspects -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-aspects</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring beans -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-beans</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring context -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-expression</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring context support -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-context-support</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring core -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-core</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring core -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-instrument</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring core -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-jdbc</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring core -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-instrument-tomcat</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring core -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-jms</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring core -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-messaging</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring core -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-orm</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring core -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-oxm</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring core -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-websocket</artifactId>
+			 <version>4.1.6.RELEASE</version>
+		 </dependency>
+		 
+		 <!-- spring core -->
+		 <dependency>
+			 <groupId>org.springframework</groupId>
+			 <artifactId>spring-tx</artifactId>
 			 <version>4.1.6.RELEASE</version>
 		 </dependency>
 	    
